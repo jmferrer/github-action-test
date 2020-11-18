@@ -33,6 +33,6 @@ jobs:
         echo test, and deploy your project.
         echo "WHOAMI:"
         whoami
-        echo "using apt"
+        echo "using aptete"
         apt-get update
         apt-get -y upgrade
